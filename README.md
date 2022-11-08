@@ -93,7 +93,11 @@
 	<div class="row">
 		<div class="col-md-3 col-xs-6 st">
 			<img src="img_5.jpeg" class="img_cls">
+<<<<<<< Updated upstream
 			<p>nfjsdnlj</p>
+=======
+			<p class="sth">nfjsdnlj</p>
+>>>>>>> Stashed changes
 		</div>
 		<div class="col-md-3 col-xs-6 st">
 			<img src="img_6.jpeg" class="img_cls">
@@ -122,6 +126,7 @@ function myFunction() {
     x.className = "topnav";
   }
 }
+<<<<<<< Updated upstream
 </script>
 Footer
 © 2022 GitHub, Inc.
@@ -138,3 +143,6 @@ Training
 Blog
 About
 
+=======
+</script>
+>>>>>>> Stashed changes
