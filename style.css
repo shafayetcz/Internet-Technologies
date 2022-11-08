@@ -129,7 +129,13 @@ st img{
   
   display: none;
 }
-
+@media screen and (max-width: 740px) {
+.sth {
+    
+    width: 91%;
+   
+}
+  }
 @media screen and (max-width: 992px) {
 
 #logo_mob{
@@ -141,6 +147,11 @@ st img{
 }
 .hide_mob{
 	display: none;
+}
+.sth {
+    
+    width: 81%;
+   
 }
 
 }
