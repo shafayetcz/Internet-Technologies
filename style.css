@@ -149,60 +149,11 @@ st img{
 }
 .sth {
     
-    width: 85%;
+    width: 88%;
    
 }
-
-}
-@media screen and (max-width: 896px){
-  #logo_mob{
-  display: none !important;
-}
-.icon{
-  display: inherit;
-  float: right;
-}
-.hide_mob{
-  display: none;
-}
-.sth {
-    
-    width: 81%;
-   
-}
-}
-@media screen and (max-width: 740px){
-  #logo_mob{
-  display: none !important;
-}
-.icon{
-  display: inherit;
-  float: right;
-}
-.hide_mob{
-  display: none;
-}
-.sth {
-    
-    width: 95%;
-   
-}
-  }
-  @media screen and (max-width: 667px){
-  #logo_mob{
-  display: none !important;
-}
-.icon{
-  display: inherit;
-  float: right;
-}
-.hide_mob{
-  display: none;
-}
-.sth {
-    
-   display: none;
-   
+.img_cls {
+    width: 100%;
 }
 .st{
       padding-top: 20px;
