@@ -39,6 +39,7 @@
     padding-left: 9%;
     margin-left: 78%;
 }
+
 .dropbtn {
   background-color: #3e3e3e;
   color: white;
@@ -133,14 +134,8 @@ st img{
   display: none;
 }
 
-@media screen and (max-width: 790px) and (min-width: 600px){
-.sth {
-    
-    width: 91%;
-   
-}
-  }
-@media screen and (max-width: 930px) and (min-width: 800px)  {
+
+@media screen and (max-width: 930px)  {
 
 #logo_mob{
 	display: none !important;
@@ -158,4 +153,58 @@ st img{
    
 }
 
+}
+@media screen and (max-width: 896px){
+  #logo_mob{
+  display: none !important;
+}
+.icon{
+  display: inherit;
+  float: right;
+}
+.hide_mob{
+  display: none;
+}
+.sth {
+    
+    width: 81%;
+   
+}
+}
+@media screen and (max-width: 740px){
+  #logo_mob{
+  display: none !important;
+}
+.icon{
+  display: inherit;
+  float: right;
+}
+.hide_mob{
+  display: none;
+}
+.sth {
+    
+    width: 95%;
+   
+}
+  }
+  @media screen and (max-width: 667px){
+  #logo_mob{
+  display: none !important;
+}
+.icon{
+  display: inherit;
+  float: right;
+}
+.hide_mob{
+  display: none;
+}
+.sth {
+    
+   display: none;
+   
+}
+.st{
+      padding-top: 20px;
+  }
 }
